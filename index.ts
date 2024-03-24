@@ -17,3 +17,4 @@ if (answer.userNumber === randomNumber) {
     console.log("you lose")
 }
 console.log(`Right Number is ${randomNumber}`)
+console.log("The End")
